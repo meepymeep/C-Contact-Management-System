@@ -6,6 +6,6 @@ This project has 3 different options:
 # Options
 - Add a contact
 - Delete a contact
-- Get all contacts
+- Get all the contacts
 
 # I hope this project might help you!
