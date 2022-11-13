@@ -9,7 +9,7 @@ typedef struct {
 
 } Contact;
 /*
-    This structure is used to make an array of contacts, if it was not obvious
+    This structure is used to make an array of contacts, if you were wondering.
 */
 
 void add_contact(int* index, Contact contacts[]) {
