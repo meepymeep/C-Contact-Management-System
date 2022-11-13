@@ -8,4 +8,4 @@ This project has 3 different options:
 - Delete a contact
 - Get all contacts
 
-# I hope this may have slightly helped you!
+# I hope this project may slightly help you!
