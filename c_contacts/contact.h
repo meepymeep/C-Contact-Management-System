@@ -8,6 +8,9 @@ typedef struct {
     int age;
 
 } Contact;
+/*
+    This structure is used to make an array of contacts, if it was not obvious
+*/
 
 void add_contact(int* index, Contact contacts[]) {
     if (contacts[*index].name == "" || contacts[*index].age == 0) {
