@@ -15,7 +15,7 @@ void add_contact(int* index, Contact contacts[]) {
         /*
             What the if statement is checking for is:
             "If the contact at index {whatever index is} has no name, or it's age is set to 0,
-            proceed to do lines below."
+            execute code below."
         */
 
         char name[255];
