@@ -65,7 +65,7 @@ void add_contact(int* index, Contact contacts[]) {
 
 void getAllContacts(Contact contacts[]) {
     /* Pretty simple solution here, basically:
-        "For every contact in contacts, if contact at index {i} has an age of 0 (dumb solution
+        "For every contact in contacts, if contact at index {i} has an age of 0,
         and if their name isn't empty, print their name, otherwise don't."
     */
     for (int i = 0; contacts[i].age != 0; i++) {
